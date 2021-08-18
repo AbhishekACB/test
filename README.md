@@ -1,2 +1,2 @@
 # test
-test rep for git cummand
+test repo for git cummand
